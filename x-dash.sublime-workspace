@@ -1,0 +1,1101 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bco",
+				"border-collapse:   (property)"
+			],
+			[
+				"tac",
+				"ta:c	text-align:center"
+			],
+			[
+				"bORDC",
+				"border-color:   (property)"
+			],
+			[
+				"di",
+				"d:i	display:inline"
+			],
+			[
+				"liststye",
+				"list-style-type:   (property)"
+			],
+			[
+				"consum",
+				"consumer_key"
+			],
+			[
+				"show",
+				"show_map"
+			],
+			[
+				"db",
+				"d:b	display:block"
+			],
+			[
+				"dib",
+				"d:ib	display:inline-block"
+			],
+			[
+				"por",
+				"pos:r	position:relative"
+			],
+			[
+				"tdu",
+				"td:u	text-decoration:underline"
+			],
+			[
+				"co",
+				"complaint"
+			],
+			[
+				"cli",
+				"client"
+			],
+			[
+				"getda",
+				"getDayCheckin"
+			],
+			[
+				"clas",
+				"classes"
+			],
+			[
+				"staff",
+				"staff_id"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"client",
+				"client_id"
+			],
+			[
+				"Day",
+				"DiaryHandler  (class)"
+			],
+			[
+				"sta",
+				"staff_id"
+			],
+			[
+				"in",
+				"index	index"
+			],
+			[
+				"gdata",
+				"getData"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pa",
+				"parent  (function)"
+			],
+			[
+				"bra",
+				"border-radius"
+			],
+			[
+				"boc",
+				"border-color"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"foot",
+				"footer_color"
+			],
+			[
+				"main",
+				"main_menu"
+			],
+			[
+				"animate",
+				"animate	animate"
+			],
+			[
+				"ani",
+				"animate	animate"
+			],
+			[
+				"prepe",
+				"prependTo	.prependTo()"
+			],
+			[
+				"anim",
+				"animate	animate"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"thi",
+				"thick"
+			],
+			[
+				"pause",
+				"pausebar"
+			],
+			[
+				"ne",
+				"nextPanel"
+			],
+			[
+				"sti",
+				"setInterval"
+			],
+			[
+				"cle",
+				"clearTimeout"
+			],
+			[
+				"lin",
+				"linear"
+			],
+			[
+				"st",
+				"sto	setTimeout"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"appe",
+				"appendTo	.appendTo()"
+			],
+			[
+				"app",
+				"appendTo	.appendTo()"
+			],
+			[
+				"cor",
+				"color"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ges",
+				"getDeferreds"
+			],
+			[
+				"las",
+				"lasttime"
+			],
+			[
+				"nw",
+				"new"
+			],
+			[
+				"la",
+				"lastTime"
+			],
+			[
+				"no",
+				"now	$.now()"
+			],
+			[
+				"run",
+				"runQ"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"col",
+				"console"
+			],
+			[
+				"mr",
+				"margin-right"
+			],
+			[
+				"m",
+				"match"
+			],
+			[
+				"mysql_connect",
+				"mysql_connect"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"th",
+				"this"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 60.0,
+		"selected_items":
+		[
+			[
+				"synjq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"syht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ill",
+				"Package Control: Install Package"
+			],
+			[
+				"rm",
+				"Package Control: Remove Package"
+			],
+			[
+				"synsas",
+				"Set Syntax: Sass"
+			],
+			[
+				"synham",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"syncs",
+				"Set Syntax: CSS"
+			],
+			[
+				"rmve",
+				"Package Control: Remove Package"
+			],
+			[
+				"wr",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"wp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"syjq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"syjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ww",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"syp",
+				"Set Syntax: PHP"
+			],
+			[
+				"inll",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"syncss",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"mer",
+				"Emmet: Merge Lines"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"form",
+				"Format Code"
+			],
+			[
+				"insll",
+				"Package Control: Install Package"
+			],
+			[
+				"me",
+				"Emmet: Merge Lines"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"remov ",
+				"Package Control: Remove Package"
+			],
+			[
+				"sy ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"syn sma",
+				"Set Syntax: Smarty"
+			],
+			[
+				"tag",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"inll ",
+				"Package Control: Install Package"
+			],
+			[
+				"reve",
+				"Package Control: Remove Package"
+			],
+			[
+				"pk contl",
+				"Package Control: Remove Package"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"sy jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"log",
+				"Snippet: console-log"
+			],
+			[
+				"snipp log",
+				"Snippet: console.log"
+			],
+			[
+				"syn qu",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"line",
+				"Emmet: Merge Lines"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sidbr",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"sidb",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 428.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/maxifick/Documents/notes.txt",
+		"/E/localhost/rails/discoverscotland/app/views/layouts/public.html.slim",
+		"/E/localhost/rails/discoverscotland/app/assets/stylesheets/fonts.css.sass",
+		"/E/localhost/rails/discoverscotland/Gemfile",
+		"/E/localhost/rails/discoverscotland/app/assets/stylesheets/grid.css.sass",
+		"/E/localhost/rails/discoverscotland/app/views/pages/list.html.slim",
+		"/E/localhost/rails/xtweet/tweetfeet.rb",
+		"/E/localhost/rails/discoverscotland/config/initializers/twitter.rb",
+		"/E/localhost/rails/discoverscotland/config/secrets.yml",
+		"/E/localhost/rails/xtweet/views/_time_heatmap.html",
+		"/E/localhost/rails/xtweet/views/_time_heatmap.slim",
+		"/E/localhost/rails/xtweet/views/layout.slim",
+		"/E/localhost/rails/xtweet/views/index.slim",
+		"/E/localhost/rails/discoverscotland/app/views/pages/_leftnav.html.slim",
+		"/E/localhost/rails/discoverscotland/app/views/pages/item.html.slim",
+		"/C/Users/maxifick/Documents/ad",
+		"/E/localhost/rails/discoverscotland/app/assets/stylesheets/leftnav.css.sass",
+		"/E/localhost/rails/discoverscotland/app/assets/stylesheets/main.css.sass",
+		"/D/sublime text/Data/Packages/User/Preferences.sublime-settings",
+		"/D/sublime text/Data/Packages/Theme - DefaultPlus/DefaultPlus.sublime-theme",
+		"/D/sublime text/Data/Packages/Theme - Default/Default.sublime-theme",
+		"/D/sublime text/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/sublime text/Data/Packages/Color Scheme - Default/Monokai-mfx.tmTheme",
+		"/E/localhost/rails/discoverscotland/app/assets/stylesheets/_variables.sass",
+		"/E/localhost/rails/discoverscotland/db/schema.rb",
+		"/E/localhost/rails/discoverscotland/app/assets/stylesheets/header.css.sass",
+		"/E/localhost/rails/discoverscotland/app/views/pages/show_map.html.slim",
+		"/E/localhost/rails/discoverscotland/app/assets/stylesheets/gallery_banner.css.sass",
+		"/E/localhost/rails/discoverscotland/app/assets/stylesheets/item.sass",
+		"/E/localhost/rails/directory_management_system/test/dummy/db/schema.rb",
+		"/E/localhost/rails/directory_management_system/db/migrate/20140505092131_add_password_reset_to_users.rb",
+		"/E/localhost/rails/directory_management_system/config/initializers/directory_management_system.rb",
+		"/E/localhost/rails/directory_management_system/app/controllers/directory_management_system/site_manager/galleries_controller.rb",
+		"/E/localhost/rails/directory_management_system/app/views/directory_management_system/admin/users/edit.html.haml",
+		"/E/localhost/rails/directory_management_system/app/views/directory_management_system/site_manager/galleries/edit.html.haml",
+		"/E/localhost/rails/directory_management_system/app/assets/stylesheets/shared/events.css.sass",
+		"/E/localhost/rails/directory_management_system/app/assets/stylesheets/shared/businesses.css.sass",
+		"/E/localhost/rails/directory_management_system/app/assets/stylesheets/shared/photograph_item.css.sass",
+		"/D/sublime text bak/Data/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/E/localhost/rails/discoverscotland/db/migrate/20140911104657_add_featured_image_id_to_galleries.rb",
+		"/E/localhost/rails/directory_management_system/app/views/directory_management_system/admin/galleries/_gallery_editor.html.haml",
+		"/E/localhost/rails/directory_management_system/config/routes.rb",
+		"/E/localhost/rails/discoverscotland/config/database.yml",
+		"/E/localhost/rails/directory_management_system/app/models/gallery.rb",
+		"/G/xx-rr/fb-kn/tg.txt",
+		"/G/xx-rr/fb-kn/stojasp.txt",
+		"/G/xx-rr/fb-kn/samkapadia.txt",
+		"/G/xx-rr/fb-kn/okol.txt",
+		"/G/xx-rr/fb-kn/lob-mor.txt",
+		"/G/xx-rr/fb-kn/_replace",
+		"/C/Users/maxifick/Documents/inex",
+		"/E/localhost/fwh/Crolinnhe/Crolinnhe_files/avia.js",
+		"/E/localhost/fwh/notes.txt",
+		"/E/localhost/fwh/Crolinnhe/Crolinnhe.htm",
+		"/E/localhost/vooval/maiden-dashboard/application/views/tools/complaints.php",
+		"/V/home/tam/webserver/admin/maiden-dashboard/application/models/maiden.class.php",
+		"/E/localhost/vooval/maiden-dashboard/application/controllers/tools.class.php",
+		"/V/home/tam/webserver/admin/maiden-dashboard/application/views/tools/complaints.php",
+		"/V/home/tam/webserver/admin/maiden-dashboard/git_deploy.php",
+		"/V/home/tam/webserver/pavel/htdocs/css/style.css",
+		"/V/application/views/api/diaryhandler.php",
+		"/V/application/controllers/api.class.php",
+		"/V/application/models/diaryhandler.class.php",
+		"/V/application/views/index/index.php",
+		"/V/htdocs/js/main.js",
+		"/V/application/system/helpers/db.class.php",
+		"/V/application/controllers/temp.class.php",
+		"/E/localhost/vooval/off/index.html",
+		"/E/localhost/vooval/off/css/style.css",
+		"/V/application/models/diary-handler.php",
+		"/V/htdocs/diary-handler.php",
+		"/V/htdocs/js/date.js",
+		"/E/localhost/vooval/off/js/main.js",
+		"/V/application/views/temp/index.php",
+		"/V/application/views/temp/what.php",
+		"/V/application/global.php",
+		"/V/application/config.php",
+		"/V/.htaccess",
+		"/E/localhost/vooval/off/application/config.php",
+		"/E/localhost/vooval/off/framework/application/cli/create_cms_table.php",
+		"/E/localhost/vooval/off/framework/application/cli/create_controller.php",
+		"/E/localhost/vooval/off/framework/application/cli/create_table.php",
+		"/E/localhost/vooval/off/framework/application/cli/create_view.php",
+		"/E/localhost/vooval/off/framework/application/cli/db_migration.php",
+		"/D/sublime text/Data/Packages/User/mfx-html-class.sublime-snippet",
+		"/D/sublime text/Data/Packages/User/mfx-html-nbsp.sublime-snippet",
+		"/E/localhost/vooval/maiden/index.html",
+		"/E/localhost/vooval/maiden/css/style.css",
+		"/E/localhost/fwi/page1-index.html",
+		"/E/localhost/fwh/LAC/bak/index.php",
+		"/E/localhost/fwh/LAC/bak/wp-atom.php",
+		"/E/localhost/fwh/LAC/bak/wp-atom-feed.php",
+		"/E/localhost/fwh/LAC/bak/wp-activate.php",
+		"/E/localhost/fwh/LAC/bak/wp-blog-header.php",
+		"/E/localhost/fwh/LAC/bak/wp-commentsrss2.php",
+		"/E/localhost/fwh/LAC/bak/wp-config.php",
+		"/E/localhost/fwh/LAC/bak/wp-config-sample.php",
+		"/E/localhost/fwh/LAC/bak/wp-comments-post.php",
+		"/E/localhost/fwh/LAC/bak/wp-cron.php",
+		"/E/localhost/fwh/LAC/bak/wp-feed.php",
+		"/E/localhost/fwh/LAC/bak/wp-load.php",
+		"/E/localhost/fwh/LAC/bak/wp-links-opml.php",
+		"/E/localhost/fwh/LAC/bak/wp-mail.php",
+		"/E/localhost/fwh/LAC/bak/wp-pass.php",
+		"/E/localhost/fwh/LAC/bak/wp-rdf.php",
+		"/E/localhost/fwh/LAC/bak/wp-login.php",
+		"/E/localhost/fwh/LAC/bak/wp-register.php",
+		"/E/localhost/fwh/LAC/bak/wp-rss.php",
+		"/E/localhost/fwh/LAC/bak/wp-rss2.php",
+		"/E/localhost/fwh/LAC/bak/wp-settings.php",
+		"/E/localhost/fwh/LAC/bak/wp-trackback.php",
+		"/E/localhost/fwh/LAC/bak/xmlrpc.php",
+		"/E/localhost/fwh/LAC/bak/wp-signup.php",
+		"/E/localhost/fwh/LAC/bak/wp-content/plugins/wp-table-reloaded/classes/arraysort.class.php",
+		"/E/localhost/fwh/LAC/bak/wp-content/plugins/wp-table-reloaded/classes/export.class.php",
+		"/E/localhost/fwh/LAC/bak/wp-content/plugins/wp-table-reloaded/classes/helper.class.php",
+		"/E/localhost/fwh/LAC/bak/wp-content/plugins/wp-table-reloaded/classes/index.php",
+		"/E/localhost/fwh/LAC/bak/wp-content/plugins/wp-table-reloaded/classes/import.class.php",
+		"/E/localhost/fwh/LAC/bak/wp-content/plugins/wp-table-reloaded/classes/parsecsv.class.php",
+		"/E/localhost/fwh/LAC/bak/wp-content/plugins/wp-table-reloaded/classes/render.class.php",
+		"/E/localhost/fwh/LAC/bak/wp-content/plugins/wp-table-reloaded/classes/simplexml.class.php",
+		"/E/localhost/fwh/LAC/bak/wp-content/plugins/wp-table-reloaded/admin/index.php",
+		"/E/localhost/fwh/LAC/bak/wp-content/plugins/wp-pagenavi/admin.php",
+		"/E/localhost/fwh/LAC/bak/wp-content/plugins/wp-pagenavi/core.php",
+		"/E/localhost/fwh/LAC/bak/wp-content/plugins/wp-pagenavi/test.php",
+		"/E/localhost/fwh/LAC/bak/wp-content/plugins/wp-pagenavi/wp-pagenavi.php",
+		"/E/localhost/fwh/LAC/bak/wp-content/plugins/wp-pagenavi/scb/AdminPage.php",
+		"/E/localhost/fwh/LAC/bak/wp-content/plugins/wp-pagenavi/scb/BoxesPage.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"8",
+			"button",
+			"action",
+			"castle",
+			"2000",
+			"20",
+			"tH78F0BwOzWELdThi5mLPdaJxmJf2Rq1imgor3GFHZmvw",
+			"2239746570",
+			"1GSgylVz3wwphmDD2TZnyxk0yiLbLLm9jGB2EQT",
+			"Igv1bOCxMWKstw81mz8s4CY1pfup3zsJf9HMuFVEpubCSQZ1Cb",
+			"Rails.application.secrets.twitter[",
+			"=",
+			"config",
+			"177",
+			"sidebar",
+			"defaultplus_tabs_medfont",
+			"theme",
+			"section",
+			"270x270",
+			"200x200",
+			"cbx1",
+			"cbx2",
+			"|",
+			"checkbox",
+			"Golf",
+			"City",
+			"type",
+			"icon",
+			"bank",
+			"icon",
+			"input",
+			"loadMap",
+			"Food",
+			"h3",
+			"address",
+			"200x200",
+			"name",
+			"#",
+			"=\"#\"",
+			"breadcrumb",
+			"purple",
+			"Discover",
+			"map",
+			"null",
+			"400px",
+			"update",
+			"edit",
+			"Photograph",
+			"(.*)\\n(\\d.*:.*)\\n.*",
+			"(.*)\\n    (\\d.*:.*)\\n.*",
+			"(.*)\\n(\\d.*:.*)\\n.*",
+			"(.*)\\n    (\\d.*:.*)\\n.*",
+			"(.*)\\n(\\d.*:.*)\\n.*",
+			"(.*)\\n    (\\d.*:.*)\\n.*",
+			"(.*)\\n(\\d.*:.*)\\n.*",
+			"opportunities",
+			"input",
+			"freq",
+			"rate",
+			"for",
+			"input",
+			"br /><br",
+			"<br /",
+			"<br /><br />",
+			"whotook",
+			"client",
+			"=",
+			" =",
+			"client",
+			"current",
+			"time",
+			"date",
+			"default",
+			"true",
+			"primary",
+			"day_number",
+			"day",
+			"private",
+			"a",
+			"staff_id",
+			"default",
+			"main",
+			"']",
+			"['",
+			"in",
+			"week",
+			"mobile",
+			"home_tel",
+			"database",
+			"bootstrap",
+			"block",
+			"#",
+			"source",
+			"hello",
+			"hide",
+			"1200x400",
+			"example",
+			"img/s",
+			"img",
+			"occatem",
+			"lorem",
+			"heading",
+			"lorem",
+			"heading",
+			"lorem",
+			"heading",
+			"lorem",
+			"heading",
+			"lorem",
+			"heading",
+			"exampleInputPassword2",
+			"exampleInputEmail2",
+			"Password",
+			"top",
+			"sm",
+			"h2",
+			"panel",
+			"src",
+			"View",
+			"raquo",
+			"default",
+			"md",
+			"bootstrap",
+			"absolute",
+			"right",
+			"class",
+			"hi",
+			".85"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n\\n=================================\\n$1 - $2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 106.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"font",
+				"app/assets/stylesheets/fonts.css.sass"
+			],
+			[
+				"pub",
+				"app/views/layouts/public.html.slim"
+			],
+			[
+				"headsa",
+				"app/assets/stylesheets/header.css.sass"
+			],
+			[
+				"conf/sec",
+				"config/secrets.yml"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"land",
+				"app/views/pages/landing_page.html.slim"
+			],
+			[
+				"publ",
+				"app/views/layouts/public.html.slim"
+			],
+			[
+				"ite",
+				"app/views/pages/item.html.slim"
+			],
+			[
+				"var",
+				"app/assets/stylesheets/_variables.sass"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"main",
+				"app/assets/stylesheets/main.css.sass"
+			],
+			[
+				"vari",
+				"app/assets/stylesheets/_variables.sass"
+			],
+			[
+				"pagco",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"sass",
+				"app/assets/stylesheets/shared/businesses.css.sass"
+			],
+			[
+				"photoit",
+				"app/assets/stylesheets/shared/photograph_item.css.sass"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"gall",
+				"app/models/gallery.rb"
+			],
+			[
+				"mai",
+				"application/models/maiden.class.php"
+			],
+			[
+				"cmli",
+				"pages/admin/cmlist.php"
+			],
+			[
+				"showa",
+				"pages/showarticle.php"
+			],
+			[
+				"clas",
+				"includes/class-coverline.php"
+			],
+			[
+				"imin",
+				"includes/js/intro.min.js"
+			],
+			[
+				"stylemi",
+				"global/styles/style.min.css"
+			],
+			[
+				"sty",
+				"global/styles/style.css"
+			],
+			[
+				"lte",
+				"global/styles/style-ie.lte9.css"
+			],
+			[
+				"clpage",
+				"global/class-page.php"
+			],
+			[
+				"stie",
+				"global/styles/style-ie.css"
+			],
+			[
+				"incssb",
+				"global/styles/x_intro.css-bak"
+			],
+			[
+				"clp",
+				"global/class-page.php"
+			],
+			[
+				"clpag",
+				"global/class-page+GA.php"
+			],
+			[
+				"injs",
+				"includes/js/intro.js"
+			],
+			[
+				"colij",
+				"includes/js/coverline.src.js"
+			],
+			[
+				"admin/",
+				"pages/admin/logstat.php"
+			],
+			[
+				"jscb",
+				"includes/js/jscbx.js"
+			],
+			[
+				"ie",
+				"global/styles/style-ie.css"
+			],
+			[
+				"incss",
+				"global/styles/x_intro.css"
+			],
+			[
+				"in",
+				"intro-show.php"
+			],
+			[
+				"cov",
+				"includes/js/coverline.src.js"
+			],
+			[
+				"ijsb",
+				"includes/js/intro.js.bak"
+			],
+			[
+				"ijs",
+				"includes/js/intro.js"
+			],
+			[
+				"xid",
+				"global/styles/x_intro-dbg.css"
+			],
+			[
+				"indb",
+				"intro-dbg.php"
+			],
+			[
+				"xinc",
+				"global/styles/x_intro.css"
+			],
+			[
+				"insh",
+				"intro-show.php"
+			],
+			[
+				"ref",
+				"js/reflection.js"
+			],
+			[
+				"kades",
+				"etc/Kadeřnictví a beauty studio _ Studio angels.cz.htm"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"styl",
+				"css/style.css"
+			],
+			[
+				"pa",
+				"css/page.css"
+			],
+			[
+				"css",
+				"css/page.css"
+			],
+			[
+				"ielt",
+				"css/ie8.lte.css"
+			],
+			[
+				"pagjs",
+				"js/page.js"
+			],
+			[
+				"intss",
+				"global/styles/x_intro.css"
+			],
+			[
+				"intcss",
+				"global/styles/x_intro.css"
+			],
+			[
+				"inphp",
+				"intro-show.php"
+			],
+			[
+				"coljs",
+				"includes/js/coverline.src.js"
+			],
+			[
+				"covjs",
+				"includes/js/coverline.js"
+			],
+			[
+				"intjs",
+				"includes/js/intro.js"
+			],
+			[
+				"ie7",
+				"css/ie7.css"
+			],
+			[
+				"jspa",
+				"js/page.js"
+			],
+			[
+				"p",
+				"/S/documents-new/localhost/nlo-max/css/page.css"
+			],
+			[
+				"pag",
+				"css/page.css"
+			],
+			[
+				"us",
+				"/U/sublime text/Data/Packages/User/Preferences.sublime-settings"
+			],
+			[
+				"style",
+				"/F/Documents and Settings/Pavel/Plocha/Documents!!/localhost/mlog/global/styles/style-ie.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/U/sublime text/projs/mlog.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true
+}
