@@ -1,38 +1,45 @@
 <?php
 
-$raw_xml = file_get_contents("http://feeds.bbci.co.uk/news/scotland/rss.xml");
+$xml = simplexml_load_file("http://feeds.bbci.co.uk/news/scotland/rss.xml");
 
-$xml = simplexml_load_string($raw_xml);
-
-$raw_json = json_encode($xml);
-
-$json = json_decode($raw_json);
+$json = json_decode( json_encode($xml) );
 
 $items = $json->channel->item;
 
-foreach( $items as $item ) {
-	echo $item->title."<br>";
+// $max_iterations = 20;
+$max_iterations = count($items);
+
+for ($i = 0; $i < $max_iterations; $i++) {
+
+	$rand = rand(0, count($items));
+	$item = $items[$rand];
+
+	$data = '
+		{ 
+			"token" : "b5089dd0-b9cd-4938-bca0-354d1f778a0e", 
+			"data" : { 
+				"title" : "' . $item->title . '", 
+				"text" : "' . $item->description .'"
+			}
+		}
+	';
+
+	update($data);
+	sleep(2);
+
 }
 
-$data = '
-	{ 
-		"token" : "b5089dd0-b9cd-4938-bca0-354d1f778a0e", 
-		"data" : { 
-			"title" : "The title", 
-			"text" : "The main text"
-		}
-	}
-';
 
-$ch = curl_init();
+function update($data) {
 
-curl_setopt($ch, CURLOPT_URL,            "http://widge.herokuapp.com/widgets/rss-news" );
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1 );
-curl_setopt($ch, CURLOPT_POST,           1 );
-curl_setopt($ch, CURLOPT_HTTPHEADER,     array('Content-Type: text/json')); 
-curl_setopt($ch, CURLOPT_POSTFIELDS,     $data ); 
+	$ch = curl_init();
 
-$result=curl_exec ($ch);
+	curl_setopt($ch, CURLOPT_URL,            "http://widge.herokuapp.com/widgets/rss-news" );
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1 );
+	curl_setopt($ch, CURLOPT_POST,           1 );
+	curl_setopt($ch, CURLOPT_HTTPHEADER,     array('Content-Type: text/json')); 
+	curl_setopt($ch, CURLOPT_POSTFIELDS,     $data ); 
 
-echo "<pre>";
-var_dump($result);
+	curl_exec ($ch);
+	
+}
